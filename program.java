@@ -3,5 +3,6 @@ public class Program {
 		int a = 34;
 		int b = 54;
 		int c = 68;
+		int d = 23;
 	}
 }
